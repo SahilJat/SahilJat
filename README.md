@@ -19,11 +19,11 @@ I am a DevOps Engineer focused on **AWS, Terraform, and Automation**. I speciali
 
 ---
 
+
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilJat&show_icons=true&theme=dracula&hide_border=true" alt="Sahil's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilJat&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilJat&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilJat&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
