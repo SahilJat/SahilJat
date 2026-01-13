@@ -18,6 +18,7 @@ I am a DevOps Engineer focused on **AWS, Terraform, and Automation**. I speciali
 | **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SahilJat)
 
 
 ### 📊 GitHub Stats
