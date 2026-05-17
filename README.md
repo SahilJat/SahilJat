@@ -23,7 +23,7 @@ I am a Full Stack Developer specializing in **TypeScript, Python, and scalable d
 
 ### 🌍 Open Source Impact
 I actively contribute to production-grade open-source software, focusing on backend concurrency, data serialization, and UI architecture:
-- **Flagsmith:** (https://github.com/Flagsmith/flagsmith/pulls?q=is:pr+author:SahilJat)Architected backend fixes for Postgres deadlocks and FK violations by implementing custom task processor retry logic. Resolved critical data leakage in Redis caching layers using schema validation.
+- **Flagsmith:** (https://github.com/Flagsmith/flagsmith/pulls?q=is:pr+author:SahilJat) Architected backend fixes for Postgres deadlocks and FK violations by implementing custom task processor retry logic. Resolved critical data leakage in Redis caching layers using schema validation.
 - **Yamada UI:** Contributed to a React/TypeScript component library, improving accessibility, component architecture, and resolving state management bugs.
 
 ---
